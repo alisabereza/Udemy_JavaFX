@@ -1,7 +1,5 @@
 package sample;
 
-
-
 public class MathOps {
     public static String addition (double x, double y) {
         return x + " + " + y + " = " + (x+y);
