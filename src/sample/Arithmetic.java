@@ -34,8 +34,7 @@ public class Arithmetic extends Application {
     ComboBox<String> actionBox = new ComboBox<>();
     Text calcualtionResult = new Text();
     Button calculate = new Button("Calculate");
-
-
+    
     public static void main(String[] args) {
         launch(args);
     }
